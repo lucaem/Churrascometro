@@ -36,11 +36,11 @@ Desafio/Projeto do curso Programador BR com o objetivo de fazer um sistema em Ja
 
 ### 🖥️ Desktop
 
-![GIF](assets/desktop.gif)
+![GIF](GitHub/desktop.gif)
 
 ### ☑️ Código:
 
-![image](assets/codigo.JPG)
+![image](GitHub/codigo.JPG)
 
 ##💻  Curso programadorBr
 
